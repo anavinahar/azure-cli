@@ -1818,7 +1818,7 @@ helps['network vnet peering show'] = """
 
 helps['network vnet peering update'] = """
     type: command
-    short-summary: Update a peering.
+    short-summary: Update a vnet peering.
 """
 # endregion
 
